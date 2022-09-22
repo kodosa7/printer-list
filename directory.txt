@@ -1,0 +1,177 @@
+Sd�len� prost�edky na \\xxxxx.yyy.zzzz.cz\
+
+
+
+N�zev sd�len� polo�ky                   Typ   Pou�ito jako  Koment��                                 
+
+-------------------------------------------------------------------------------
+m001-p01 - EPSON WF-C5710               Tisk                m001-p01 - EPSON WF-C5710                
+m001-p02 - EPSON WP-M4095               Tisk                m001-p02 - EPSON WP-M4095                
+m002-p01 - RICOH Aficio MP 2852         Tisk                m002-p01 - RICOH Aficio MP 2852          
+m002-p02 - EPSON WP-M4095               Tisk                m002-p02 - EPSON WP-M4095                
+m003-p01 - EPSON WF-C5710               Tisk                m003-p01 - EPSON WF-C5710                
+m003-p02 - EPSON WP-M4095               Tisk                m003-p02 - EPSON WP-M4095                
+m003-p03 - EPSON WP-M4095               Tisk                m003-p03 - EPSON WP-M4095                
+m004-p02 - Kyocera TASKalfa 3252ci      Tisk                m004-p02 - Kyocera TASKalfa 3252ci       
+m004-p03 - Brother QL-820NWB            Tisk                m004-p03 - Brother QL-820NWB             
+m005-p01 - EPSON WF-C5710               Tisk                m005-p01 - EPSON WF-C5710                
+m005-p02 - EPSON WP-M4095               Tisk                m005-p02 - EPSON WP-M4095                
+m005-p03 - EPSON WP-M4095               Tisk                m005-p03 - EPSON WP-M4095                
+m006-p01 - RICOH Aficio MP 2852         Tisk                m006-p01 - RICOH Aficio MP 2852          
+m006-p02 - EPSON WP-M4095               Tisk                m006-p02 - EPSON WP-M4095                
+m006-p03 - EPSON WP-M4095               Tisk                m006-p03 - EPSON WP-M4095                
+m007-p01 - EPSON WP-M4095               Tisk                m007-p01 - EPSON WP-M4095                
+m008-p01 - EPSON WP-M4095               Tisk                m008-p01 - EPSON WP-M4095                
+m009-p01 - EPSON WP-M4095               Tisk                m009-p01 - EPSON WP-M4095                
+m009-p02 - RICOH Aficio MP 2852         Tisk                m009-p02 - RICOH Aficio MP 2852          
+m010-p01 - EPSON WP-M4095               Tisk                m010-p01 - EPSON WP-M4095                
+m011-p01 - EPSON WP-M4095               Tisk                m011-p01 - EPSON WP-M4095                
+m012p-p01 - RICOH Aficio SP 3410DN      Tisk                m012p-p01 - RICOH Aficio SP 3410DN       
+m012p-p02 - RICOH Aficio SP 3410DN      Tisk                m012p-p02 - RICOH Aficio SP 3410DN       
+m012p-p03 - BIXOLON SRP-350plusIII      Tisk                m012p-p03 - BIXOLON SRP-350plusIII       
+m019-p01 - Xerox WorkCentre 5225        Tisk                m019-p01 - Xerox WorkCentre 5225         
+m020-p01 - RICOH Aficio MP 2852         Tisk                m020-p01 - RICOH Aficio MP 2852          
+m022-p01 - RICOH Aficio SP 3410DN       Tisk                m022-p01 - RICOH Aficio SP 3410DN        
+m023-p01 - RICOH Aficio MP 2852         Tisk                m023-p01 - RICOH Aficio MP 2852          
+m024-p01 - Xerox WorkCentre 5225        Tisk                m024-p01 - Xerox WorkCentre 5225         
+m025-p01 - EPSON WF-C5710               Tisk                m025-p01 - EPSON WF-C5710                
+m026-p01 - Xerox WorkCentre 5225        Tisk                m026-p01 - Xerox WorkCentre 5225         
+m026-p02 - RICOH SP 3600DN              Tisk                m026-p02 - RICOH SP 3600DN               
+m031-p01 - EPSON WF-C5710               Tisk                m031-p01 - EPSON WF-C5710                
+m033-p01 - EPSON WF-C5710               Tisk                m033-p01 - EPSON WF-C5710                
+m034-p01 - EPSON WF-C5710               Tisk                m034-p01 - EPSON WF-C5710                
+m035-p01 - RICOH Aficio SP 3410DN       Tisk                m035-p01 - RICOH Aficio SP 3410DN        
+m035-p02 - Canon iR-ADV 4025i           Tisk                m035-p02 - Canon iR-ADV 4025i            
+m037-p01 - Brother QL-1060N             Tisk                m037-p01 - Brother QL-1060N              
+m037-p02 - Brother QL-1060N             Tisk                m037-p02 - Brother QL-1060N              
+m037-p03 - Kyocera TASKalfa 3511i       Tisk                m037-p03 - Kyocera TASKalfa 3511i        
+m102-p01 - RICOH Aficio MP 2852         Tisk                m102-p01 - RICOH Aficio MP 2852          
+m104-p01 - RICOH Aficio MP 2852         Tisk                m104-p01 - RICOH Aficio MP 2852          
+m105-p01 - RICOH Aficio SP 3410DN       Tisk                m105-p01 - RICOH Aficio SP 3410DN        
+m105-p02 - RICOH Aficio MP 2852         Tisk                m105-p02 - RICOH Aficio MP 2852          
+m106-p01 - RICOH Aficio SP 3410DN       Tisk                m106-p01 - RICOH Aficio SP 3410DN        
+m107-p01 - RICOH Aficio SP 3410DN       Tisk                m107-p01 - RICOH Aficio SP 3410DN        
+m108-p01 - Xerox Phaser 3435            Tisk                m108-p01 - Xerox Phaser 3435             
+m109-p01 - RICOH Aficio SP 3410DN       Tisk                m109-p01 - RICOH Aficio SP 3410DN        
+m110-p01 - RICOH Aficio SP 3410DN       Tisk                m110-p01 - RICOH Aficio SP 3410DN        
+m112-p01 - RICOH SP 3600DN              Tisk                m112-p01 - RICOH SP 3600DN               
+m112-p02 - RICOH Aficio MP 2852         Tisk                m112-p02 - RICOH Aficio MP 2852          
+m113-p01 - Kyocera ECOSYS M6235cidn     Tisk                m113-p01 - Kyocera ECOSYS M6235cidn      
+m114-p01 - EPSON WF-C5710               Tisk                m114-p01 - EPSON WF-C5710                
+m115-p01 - Canon iR-ADV C3530 III       Tisk                m115-p01 - Canon iR-ADV C3530 III        
+m118-p01 - RICOH SP 3600DN              Tisk                m118-p01 - RICOH SP 3600DN               
+m119-p01 - KONICA MINOLTA bizhub C224e  Tisk                m119-p01 - KONICA MINOLTA bizhub C224e   
+m119-p02 - EPSON WP-M4095               Tisk                m119-p02 - EPSON WP-M4095                
+m121-p01 - Kyocera ECOSYS M2035dn       Tisk                m121-p01 - Kyocera ECOSYS M2035dn        
+m122-p02 - Canon iR-ADV C5030           Tisk                m122-p02 - Canon iR-ADV C5030            
+m124-p01 - EPSON WF-C5710               Tisk                m124-p01 - EPSON WF-C5710                
+m125-p01 - RICOH Aficio SP 3410DN       Tisk                m125-p01 - RICOH Aficio SP 3410DN        
+m126-p01 - RICOH SP 3600DN              Tisk                m126-p01 - RICOH SP 3600DN               
+m128-p01 - RICOH Aficio SP 3410DN       Tisk                m128-p01 - RICOH Aficio SP 3410DN        
+m129-p01 - RICOH Aficio SP 3410DN       Tisk                m129-p01 - RICOH Aficio SP 3410DN        
+m130-p01 - RICOH Aficio SP 3510DN       Tisk                m130-p01 - RICOH Aficio SP 3510DN        
+m131-p01 - Xerox WorkCentre 5225        Tisk                m131-p01 - Xerox WorkCentre 5225         
+m132-p01 - RICOH Aficio SP 3410DN       Tisk                m132-p01 - RICOH Aficio SP 3410DN        
+m133-p01 - RICOH Aficio SP 3410DN       Tisk                m133-p01 - RICOH Aficio SP 3410DN        
+m134-p01 - RICOH SP 3600DN              Tisk                m134-p01 - RICOH SP 3600DN               
+m135-p01 - RICOH SP 3600DN              Tisk                m135-p01 - RICOH SP 3600DN               
+m136-p01 - RICOH Aficio SP 3410DN       Tisk                m136-p01 - RICOH Aficio SP 3410DN        
+m137-p01 - RICOH Aficio SP 3410DN       Tisk                m137-p01 - RICOH Aficio SP 3410DN        
+m138-p01 - RICOH Aficio SP 3510DN       Tisk                m138-p01 - RICOH Aficio SP 3510DN        
+m139-p01 - EPSON WF-C5710               Tisk                m139-p01 - EPSON WF-C5710                
+m140-p01 - RICOH Aficio MP 2852         Tisk                m140-p01 - RICOH Aficio MP 2852          
+m141-p01 - RICOH Aficio SP 3410DN       Tisk                m141-p01 - RICOH Aficio SP 3410DN        
+m141-p02 - Canon iR-ADV 4025i           Tisk                m141-p02 - Canon iR-ADV 4025i            
+m142-p01 - RICOH SP 3600DN              Tisk                m142-p01 - RICOH SP 3600DN               
+m143-p01 - EPSON WF-C5710               Tisk                m143-p01 - EPSON WF-C5710                
+m201-p01 - Canon iR-ADV 4035i           Tisk                m201-p01 - Canon iR-ADV 4035i            
+m202-p01 - RICOH Aficio SP 3410DN       Tisk                m202-p01 - RICOH Aficio SP 3410DN        
+m203-p01 - RICOH Aficio SP 3510DN       Tisk                m203-p01 - RICOH Aficio SP 3510DN        
+m204-p01 - Kyocera ECOSYS M2035dn       Tisk                m204-p01 - Kyocera ECOSYS M2035dn        
+m205-p01 - Xerox WorkCentre 5225        Tisk                m205-p01 - Xerox WorkCentre 5225         
+m206-p01 - RICOH Aficio SP 3410DN       Tisk                m206-p01 - RICOH Aficio SP 3410DN        
+m208-p01 - RICOH Aficio SP 3410DN       Tisk                m208-p01 - RICOH Aficio SP 3410DN        
+m210-p01 - Xerox Phaser 3435            Tisk                m210-p01 - Xerox Phaser 3435             
+m210-p02 - EPSON WF-C5710               Tisk                m210-p02 - EPSON WF-C5710                
+m211-p01 - RICOH Aficio SP 3410DN       Tisk                m211-p01 - RICOH Aficio SP 3410DN        
+m212-p01 - RICOH Aficio SP 3410DN       Tisk                m212-p01 - RICOH Aficio SP 3410DN        
+m215-p01 - RICOH SP 3600DN              Tisk                m215-p01 - RICOH SP 3600DN               
+m216-p01 - RICOH Aficio SP 3410DN       Tisk                m216-p01 - RICOH Aficio SP 3410DN        
+m217-p01 - RICOH Aficio SP 3410DN       Tisk                m217-p01 - RICOH Aficio SP 3410DN        
+m218-p01 - Xerox WorkCentre 5225        Tisk                m218-p01 - Xerox WorkCentre 5225         
+m219-p01 - RICOH SP 3600DN              Tisk                m219-p01 - RICOH SP 3600DN               
+m221-p01 - Canon iR-ADV 4025i           Tisk                m221-p01 - Canon iR-ADV 4025i            
+m222-p01 - RICOH Aficio SP 3410DN       Tisk                m222-p01 - RICOH Aficio SP 3410DN        
+m223-p01 - Xerox WorkCentre 5225        Tisk                m223-p01 - Xerox WorkCentre 5225         
+m226-p01 - Xerox WorkCentre 5225        Tisk                m226-p01 - Xerox WorkCentre 5225         
+m227-p01 - RICOH Aficio SP 3510DN       Tisk                m227-p01 - RICOH Aficio SP 3510DN        
+m228-p01 - RICOH Aficio SP 3410DN       Tisk                m228-p01 - RICOH Aficio SP 3410DN        
+m229-p01 - Xerox WorkCentre 5225        Tisk                m229-p01 - Xerox WorkCentre 5225         
+m230-p01 - RICOH SP 3600DN              Tisk                m230-p01 - RICOH SP 3600DN               
+m232-p01 - RICOH SP 3600DN              Tisk                m232-p01 - RICOH SP 3600DN               
+m233-p01 - RICOH Aficio SP 3410DN       Tisk                m233-p01 - RICOH Aficio SP 3410DN        
+m234-p01 - RICOH Aficio SP 3510DN       Tisk                m234-p01 - RICOH Aficio SP 3510DN        
+m235-p01 - RICOH Aficio SP 3410DN       Tisk                m235-p01 - RICOH Aficio SP 3410DN        
+m236-p01 - Kyocera ECOSYS M2035dn       Tisk                m236-p01 - Kyocera ECOSYS M2035dn        
+m237-p01 - Kyocera ECOSYS M6526cdn      Tisk                m237-p01 - Kyocera ECOSYS M6526cdn       
+m238-p01 - RICOH Aficio SP 3510DN       Tisk                m238-p01 - RICOH Aficio SP 3510DN        
+m239-p01 - Kyocera ECOSYS M6026cdn      Tisk                m239-p01 - Kyocera ECOSYS M6026cdn       
+m240-p01 - RICOH Aficio SP 3410DN       Tisk                m240-p01 - RICOH Aficio SP 3410DN        
+m241-p01 - RICOH Aficio MP 2852         Tisk                m241-p01 - RICOH Aficio MP 2852          
+m241-p02 - RICOH Aficio SP 3410DN       Tisk                m241-p02 - RICOH Aficio SP 3410DN        
+m242-p01 - RICOH Aficio SP 3410DN       Tisk                m242-p01 - RICOH Aficio SP 3410DN        
+m301-p01 - Kyocera ECOSYS M2035dn       Tisk                m301-p01 - Kyocera ECOSYS M2035dn        
+m306-p01 - EPSON WF-C5710               Tisk                m306-p01 - EPSON WF-C5710                
+m307-p01 - Xerox Phaser 3300MFP         Tisk                m307-p01 - Xerox Phaser 3300MFP          
+m307-p02 - RICOH Aficio MP 2852         Tisk                m307-p02 - RICOH Aficio MP 2852          
+m308-p01 - RICOH Aficio SP 3410DN       Tisk                m308-p01 - RICOH Aficio SP 3410DN        
+m309-p01 - Kyocera ECOSYS M2040dn       Tisk                m309-p01 - Kyocera ECOSYS M2040dn        
+m311-p01 - RICOH SP 3600DN              Tisk                m311-p01 - RICOH SP 3600DN               
+m312-p01 - Kyocera ECOSYS M2035dn       Tisk                m312-p01 - Kyocera ECOSYS M2035dn        
+m313-p01 - RICOH Aficio SP 3410DN       Tisk                m313-p01 - RICOH Aficio SP 3410DN        
+m314-p01 - EPSON WF-C5710               Tisk                m314-p01 - EPSON WF-C5710                
+m314-p01 - Xerox WorkCentre 5225        Tisk                m314-p01 - Xerox WorkCentre 5225         
+m314-p01 - Xerox WorkCentre 5225 PCL6   Tisk                m314-p01 - Xerox WorkCentre 5225 PCL6    
+m315-p01 - RICOH Aficio SP 3410DN       Tisk                m315-p01 - RICOH Aficio SP 3410DN        
+m316-p01 - RICOH Aficio SP 3410DN       Tisk                m316-p01 - RICOH Aficio SP 3410DN        
+m317-p01 - RICOH MP 2501                Tisk                m317-p01 - RICOH MP 2501                 
+m318-p01 - RICOH Aficio SP 3410DN       Tisk                m318-p01 - RICOH Aficio SP 3410DN        
+m320-p01 - RICOH Aficio MP 2852         Tisk                m320-p01 - RICOH Aficio MP 2852          
+m321-p01 - Kyocera ECOSYS P6035cdn      Tisk                m321-p01 - Kyocera ECOSYS P6035cdn       
+m322-p01 - EPSON WF-C5710               Tisk                m322-p01 - EPSON WF-C5710                
+m323-p01 - RICOH Aficio SP 3510DN       Tisk                m323-p01 - RICOH Aficio SP 3510DN        
+m324-p01 - EPSON WF-C5710               Tisk                m324-p01 - EPSON WF-C5710                
+m325-p01 - Kyocera ECOSYS M2035dn       Tisk                m325-p01 - Kyocera ECOSYS M2035dn        
+m326-p01 - Kyocera ECOSYS M2035dn       Tisk                m326-p01 - Kyocera ECOSYS M2035dn        
+m327-p01 - RICOH Aficio MP 2852         Tisk                m327-p01 - RICOH Aficio MP 2852          
+m328-p01 - Xerox Phaser 3435            Tisk                m328-p01 - Xerox Phaser 3435             
+m329-p01 - RICOH SP 3600DN              Tisk                m329-p01 - RICOH SP 3600DN               
+m330-p01 - Kyocera ECOSYS M2035dn       Tisk                m330-p01 - Kyocera ECOSYS M2035dn        
+m331-p01 - RICOH SP 3600DN              Tisk                m331-p01 - RICOH SP 3600DN               
+m332-p01 - EPSON WF-C5710               Tisk                m332-p01 - EPSON WF-C5710                
+m333-p01 - Kyocera ECOSYS M2035dn       Tisk                m333-p01 - Kyocera ECOSYS M2035dn        
+m333-p02 - Canon iR-ADV 4025i           Tisk                m333-p02 - Canon iR-ADV 4025i            
+m336-p01 - EPSON WP-M4095               Tisk                EPSON WP-M4095                           
+m336-p02 - Kyocera ECOSYS M6526cdn      Tisk                m336-p02 - Kyocera ECOSYS M6526cdn       
+m336-p03 - EPSON L1800                  Tisk                m336-p03 - EPSON L1800                   
+m336-p04 - EPSON WF-C5710               Tisk                m336-p04 - EPSON WF-C5710                
+m336-p09 - RICOH Aficio SP 3510DN       Tisk                m336-p09 - RICOH Aficio SP 3510DN        
+m336-p99 - Canon IRA3                   Tisk                m336-p99 - Canon IRA3                    
+m337-p01 - RICOH Aficio SP 3510DN       Tisk                m337-p01 - RICOH Aficio SP 3510DN        
+m338-p01 - Kyocera ECOSYS M2035dn       Tisk                m338-p01 - Kyocera ECOSYS M2035dn        
+m339-p01 - RICOH SP 3600DN              Tisk                m339-p01 - RICOH SP 3600DN               
+m340-p01 - Xerox WorkCentre 5225        Tisk                m340-p01 - Xerox WorkCentre 5225         
+m342-p01 - RICOH Aficio SP 3410DN       Tisk                m342-p01 - RICOH Aficio SP 3410DN        
+m343-p01 - EPSON WF-C5710               Tisk                m343-p01 - EPSON WF-C5710                
+m344-p01 - Kyocera ECOSYS M6526cdn      Tisk                m344-p01 - Kyocera ECOSYS M6526cdn       
+m344-p02 - RICOH Aficio MP 2852         Tisk                m344-p02 - RICOH Aficio MP 2852          
+m349-p01 - Xerox Phaser 3300MFP         Tisk                m349-p01 - Xerox Phaser 3300MFP          
+m406-p01 - RICOH Aficio MP 2852         Tisk                m406-p01 - RICOH Aficio MP 2852          
+m407-p01 - Xerox WorkCentre 5225        Tisk                m407-p01 - Xerox WorkCentre 5225         
+m410-p01 - Canon iR-ADV 4025i           Tisk                m410-p01 - Canon iR-ADV 4025i            
+m411-p01 - RICOH Aficio MP 2852         Tisk                m411-p01 - RICOH Aficio MP 2852          
+m911-p01 - Kyocera ECOSYS M2035dn       Tisk                m911-p01 - Kyocera ECOSYS M2035dn        
+m914-p01 - Kyocera TASKalfa 356ci       Tisk                m914-p01 - Kyocera TASKalfa 356ci        
+m915-p01 - EPSON WF-C5710               Tisk                m915-p01 - EPSON WF-C5710                
+m922-p01 - RICOH Aficio MP 2852         Tisk                m922-p01 - RICOH Aficio MP 2852          
+m930-p01 - RICOH Aficio SP 3410DN       Tisk                m930-p01 - RICOH Aficio SP 3410DN        
